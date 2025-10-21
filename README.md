@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-(https://youtube.com/shorts/F7PbDo7TbBg?si=N3ay-Wf0_KvMOKRT)) .
+[Youtube Video]](https://youtube.com/shorts/F7PbDo7TbBg?si=N3ay-Wf0_KvMOKRT)) .
 
 ## Notes
 
